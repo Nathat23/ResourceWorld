@@ -1,0 +1,14 @@
+# ResourceWold config by antiPerson
+
+# Only enabled in these worlds.
+enabled-worlds:
+    - resources
+
+# Don't allow breakage of blocks above this level.
+prevent-break-above: 25
+
+# Exceptions for the above.
+allow-break:
+    - LOG
+    - LOG_2
+
